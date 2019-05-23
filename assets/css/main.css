@@ -200,7 +200,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
-		font-family: "Raleway", Helvetica, sans-serif;
+		font-family: "Open Sans", Helvetica, sans-serif;
 		font-weight: 600;
 		letter-spacing: 0.175em;
 		line-height: 1.75;
@@ -1865,7 +1865,7 @@ input, select, textarea {
 		color: #000000 !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Raleway", Helvetica, sans-serif;
+		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 0.6rem;
 		font-weight: 600;
 		height: 3rem;
@@ -2141,7 +2141,7 @@ input, select, textarea {
 	label {
 		color: #000000;
 		display: block;
-		font-family: "Raleway", Helvetica, sans-serif;
+		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 0.75rem;
 		font-weight: 600;
 		letter-spacing: 0.175em;
@@ -3243,7 +3243,7 @@ input, select, textarea {
 				}
 
 				#wrapper section > header h1 + p {
-					font-family: "Raleway", Helvetica, sans-serif;
+					font-family: "Open Sans", Helvetica, sans-serif;
 					font-size: 0.8rem;
 					letter-spacing: 0.175em;
 					line-height: 2.5;
